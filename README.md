@@ -42,14 +42,14 @@ npm install
 cd ..
 ```
 ```bash
-cd Backend
+cd backend
 ```
 ```bash
 node server.js
 ```
  ## Run the React Frontend (On another Terminal)
 ```bash
-cd Frontend
+cd frontend
 ```
 ```bash
 npm start
