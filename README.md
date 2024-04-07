@@ -16,7 +16,7 @@ cd Restaurant-Reservation-MERN
 
  ## Go inside the Backend i.e. server
  ```bash
- cd Backend
+ cd backend
  ```
  ## Install Packages
 
@@ -29,7 +29,7 @@ npm install
 cd .. 
 ```
 ```bash
-cd Frontend
+cd frontend
 ```
  ## Install Packages
 
